@@ -1,0 +1,51 @@
+[
+  {
+    "model": "ESP32-WROOM-32",
+    "core": "Dual-core Xtensa® 32-bit LX6",
+    "ioPins": 34,
+    "image": "../images/product-esp32.jpg",
+    "description": "The ESP32-WROOM-32 is a powerful microcontroller module with dual-core processing capabilities. It is designed for versatile applications requiring both Wi-Fi and Bluetooth connectivity. Its robust performance and extensive feature set make it suitable for complex projects, including smart home devices, industrial automation, and wearable technology."
+  },
+  {
+    "model": "ESP8266",
+    "core": "Tensilica L106 32-bit",
+    "ioPins": 17,
+    "image": "../images/product-esp8266.jpg",
+    "description": "The ESP8266 is a cost-effective microcontroller with built-in Wi-Fi capabilities, making it a popular choice for Internet of Things (IoT) projects. It provides a robust platform for creating wireless applications, including smart home devices and remote sensors. While it’s less powerful than the ESP32, it remains a strong contender for many connectivity-focused projects."
+  },
+  {
+    "model": "Raspberry Pi Pico",
+    "core": "Dual-core ARM Cortex-M0+",
+    "ioPins": 26,
+    "image": "../images/product-raspberryPi.jpg",
+    "description": "The Raspberry Pi Pico is a microcontroller board featuring the custom RP2040 chip with a dual-core ARM Cortex-M0+ processor. It offers a combination of high performance, flexibility, and affordability. Ideal for a broad range of applications, it supports a rich set of peripherals and is well-suited for both educational and advanced hobbyist projects."
+  },
+  {
+    "model": "Arduino Uno",
+    "core": "ATmega328P",
+    "ioPins": 14,
+    "image": "../images/product-arduinoUno.jpg",
+    "description": "The Arduino Uno is a widely-used microcontroller board based on the ATmega328P. It is renowned for its ease of use and extensive community support. Ideal for beginners and hobbyists, it supports digital and analog inputs and outputs, making it suitable for a wide range of simple electronics projects and educational purposes."
+  },
+  {
+    "model": "Arduino Nano",
+    "core": "ATmega328P",
+    "ioPins": 14,
+    "image": "../images/product-arduinoNano.jpg",
+    "description": "The Arduino Nano is a compact and versatile microcontroller board that packs the functionality of the Arduino Uno into a smaller form factor. It retains the same processing power and capabilities as the Uno but is designed for projects where space is at a premium. It's a great choice for small, portable, or embedded applications."
+  },
+  {
+    "model": "Arduino Mega",
+    "core": "ATmega2560",
+    "ioPins": 54,
+    "image": "../images/product-arduinoMega.jpg",
+    "description": "The Arduino Mega is designed for more complex projects that require a larger number of input/output pins and greater memory capacity than the Arduino Uno. With 54 digital I/O pins and 16 analog inputs, it is well-suited for advanced applications involving multiple sensors and actuators, as well as large-scale interactive installations."
+  },
+  {
+    "model": "STM32F103C8T6 (Blue Pill)",
+    "core": "ARM Cortex-M3",
+    "ioPins": 37,
+    "image": "../images/product-stm.jpg",
+    "description": "The STM32F103C8T6, often referred to as the Blue Pill, is a high-performance microcontroller based on the ARM Cortex-M3 core. Known for its speed and efficiency, it offers a significant performance boost over typical Arduino boards. It’s ideal for applications that require fast processing, precise control, and a wide array of I/O options."
+  }
+]
